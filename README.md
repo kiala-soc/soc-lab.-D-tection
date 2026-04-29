@@ -52,3 +52,4 @@ La présence de connexions réussies après de multiples échecs peut indiquer :
 - Vérifier l'origine des connexions
 - Surveiller les comptes administrateurs
 - Mettre en place des alertes Splunk
+- ![Splunk 4624](splunk-4624.png)
