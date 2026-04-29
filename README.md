@@ -7,4 +7,4 @@ Cette capture montre plusieurs tentatives de connexion échouées (Event ID 4625
 
 Cela indique une possible attaque de type brute force ciblant plusieurs comptes.
 
-![Brute Force](brute-force-4625.png.png
+![Brute Force](brute-force-4625.png.png)
